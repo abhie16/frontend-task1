@@ -11,7 +11,7 @@
 }
 
 .logo-img{
-    padding: 10px;
+    padding: 5px;
     padding-left: 30px;
 }
 
@@ -63,7 +63,7 @@
 }
 
 .main-content{
-    border: 1px solid red;
+    border: 1px solid rgb(194, 193, 193);
     margin: 90px;
     border-radius: 10px;
     box-shadow: 0 5px 5px rgb(194, 193, 193);
@@ -85,16 +85,17 @@
 
 .task-heading {
     margin: 20px 50px;
-    border-radius: 10px 10px 0px 0px;
-    border: 1px solid red;
+    border-radius: 10px ;
+    border: 1px solid rgb(194, 193, 193);
+    box-shadow: 0px 5px 10px 3px rgb(194, 193, 193);
     display:inline-block;
-    width: 50%;
+    /* width: 50%; */
     position: relative;
 }
 
 .task-heading h4{
-   
-    /* width: 50%; */
+/*    
+    width: 50%; */
     background-color: rgb(41, 41, 42) ;
     border-radius: 10px 10px 0px 0px;
     padding: 10px;
